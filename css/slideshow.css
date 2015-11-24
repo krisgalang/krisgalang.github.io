@@ -52,11 +52,11 @@
 	Slid Show image part
 -----------------------------------------*/ 
 .cb-slideshow li:nth-child(1) span {
-	 background-image: url(https://photos-1.dropbox.com/t/2/AABaY5yKrDLTl_5rbyj4msw6UilibDfPOBIrZT1tj0cCNw/12/42045432/jpeg/32x32/1/_/1/2/banner1.jpg/EPO8jyAYSCABKAEoAg/tfEcq6Q7O4qpYwqJqXhJEikRdGFJ_LhF8Z_esWI9GSE%2CIJUmsF3dsn0dSyk0FThvz5wmsOzcfYcb2s6CNvnmBqY%2Cboyh7t8ooV5o4YQHigMhA5RpHhDUTlRDENDYpIDOgGE?size=1024x768&size_mode=3);
+	 background-image: url(http://i.imgur.com/dZakboU.jpg);
 	 
 }
 .cb-slideshow li:nth-child(2) span {
-	 background-image: url(https://photos-4.dropbox.com/t/2/AABObzStRbGBpdxjCG9lcXG2qmVnwiaf73Qop0sb6l40fg/12/42045432/jpeg/32x32/1/_/1/2/banner2.jpg/EPO8jyAYTCABKAEoAg/1g7jYgdwy3Ldi3JhWBdA1OBVQDO2M1bl8TMmx4qf7jA?size=1024x768&size_mode=3);
+	 background-image: url(http://imgur.com/PkraGNf);
 	 -webkit-animation-delay: 15s;
 	 -moz-animation-delay: 15s;
 	 -o-animation-delay: 15s;
@@ -64,7 +64,7 @@
 	 animation-delay: 15s;
 }
 .cb-slideshow li:nth-child(3) span {
-	 background-image: url(https://photos-6.dropbox.com/t/2/AAAbcoLX_79H1QxwnmN4eshQ3YeMH_Kn7aXI4ApGigXhFA/12/42045432/jpeg/32x32/1/_/1/2/banner3.jpg/EPO8jyAYTCABKAEoAg/Bh3WuXJocdAdv_u0k0jicqeTTB_nTSzJyBsDQRdWnpo?size=1024x768&size_mode=3);
+	 background-image: url(http://imgur.com/bE4Ap1E);
 	 -webkit-animation-delay: 30s;
 	 -moz-animation-delay: 30s;
 	 -o-animation-delay: 30s;
